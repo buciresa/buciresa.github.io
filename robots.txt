@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://buciresa.github.io/sitemap
+Sitemap: https://buciresa.github.io/app/sitemap
+Sitemap: https://buciresa.github.io/assets/sitemap
+Sitemap: https://buciresa.github.io/css/sitemap
+Sitemap: https://buciresa.github.io/includes/sitemap
+Sitemap: https://buciresa.github.io/item/sitemap
+Sitemap: https://buciresa.github.io/src/sitemap
